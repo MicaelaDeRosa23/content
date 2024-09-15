@@ -31,7 +31,7 @@ El material pendiente asume que tienes un buen nivel de comprensión de los sigu
 - ¿Cuándo debo usar el selector `#id`? Nunca, usaremos `#id`s solo cuando programemos en JavaScript.
 - ¿Por qué se supone que las hojas de estilo se escriben desde los estilos más genéricos hasta los más específicos? Debido a que escribirás muchas menos líneas de código de esa manera, también evitará muchos errores o conflictos entre sus selectores.
 
-## Cosas que debes saber sobre programación
+## Cosas que debes saber sobre programación:
 
 - ¿Qué es "la consola" o "terminal"? Para un desarrollador web, suele ser el lugar para obtener información sobre su código; le permite "imprimir" y mostrar el contenido de las variables para que pueda depurar su código. Los desarrolladores usan la consola todo el día, todo el tiempo.
 - ¿Cómo puedo imprimir algo en el inspector de desarrolladores (también conocido como la consola)? Al escribir `console.log();`
